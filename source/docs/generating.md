@@ -1,6 +1,6 @@
 title: Generating
 ---
-Generate static files with Hexo is quite easy and fast.
+Generate static files with Hexo is quite easy and fasthh.
 
 ``` bash
 $ hexo generate
