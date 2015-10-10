@@ -1,7 +1,7 @@
 title: Generating
 ---
 Generate static files with Hexo is quite easy and fast.
-
+gg
 ``` bash
 $ hexo generate
 ```
